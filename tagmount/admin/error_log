@@ -1,0 +1,68 @@
+[21-Mar-2022 19:35:47 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:36:47 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:36:52 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:37:07 Europe/Istanbul] PHP Notice:  Undefined index: bolum_adi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:37:45 Europe/Istanbul] PHP Notice:  Undefined index: bolum_adi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:40:52 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:40:52 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:50:09 Europe/Istanbul] PHP Notice:  Undefined index: bolum_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:50:09 Europe/Istanbul] PHP Notice:  Undefined index: bolum_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:51:15 Europe/Istanbul] PHP Warning:  Use of undefined constant bolum_adi - assumed 'bolum_adi' (this will throw an Error in a future version of PHP) in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:51:15 Europe/Istanbul] PHP Warning:  Use of undefined constant bolum_adi - assumed 'bolum_adi' (this will throw an Error in a future version of PHP) in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:54:46 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ']' in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 19:54:56 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 19:54:56 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 19:54:57 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 19:54:57 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 19:55:26 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ';' in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 19:55:33 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ';' in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 19:55:37 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 19:55:37 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 19:56:00 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 19:56:00 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 19:56:22 Europe/Istanbul] PHP Notice:  Undefined index: bolum_adi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 85
+[21-Mar-2022 19:56:22 Europe/Istanbul] PHP Notice:  Undefined index: bolum_adi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 85
+[21-Mar-2022 19:56:38 Europe/Istanbul] PHP Notice:  Undefined index: bolum_adi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 85
+[21-Mar-2022 19:56:38 Europe/Istanbul] PHP Notice:  Undefined index: bolum_adi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 85
+[21-Mar-2022 19:57:00 Europe/Istanbul] PHP Notice:  Undefined index: bolum_adi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 85
+[21-Mar-2022 19:57:00 Europe/Istanbul] PHP Notice:  Undefined index: bolum_adi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 85
+[21-Mar-2022 19:57:31 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ''video_dizi'' (T_CONSTANT_ENCAPSED_STRING) in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:57:50 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ''video_dizi'' (T_CONSTANT_ENCAPSED_STRING) in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:58:01 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:58:01 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:58:02 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:58:02 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:58:05 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:58:05 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:58:26 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 19:58:26 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 20:00:51 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/hastagya/keka.hastagyazilim.com/admin/header.php on line 26
+[21-Mar-2022 20:01:19 Europe/Istanbul] PHP Notice:  Undefined index: diziadi in /home/hastagya/keka.hastagyazilim.com/admin/header.php on line 26
+[21-Mar-2022 20:01:24 Europe/Istanbul] PHP Notice:  Undefined index: diziadi in /home/hastagya/keka.hastagyazilim.com/admin/header.php on line 26
+[21-Mar-2022 20:01:26 Europe/Istanbul] PHP Notice:  Undefined index: diziadi in /home/hastagya/keka.hastagyazilim.com/admin/header.php on line 26
+[21-Mar-2022 20:01:27 Europe/Istanbul] PHP Notice:  Undefined index: diziadi in /home/hastagya/keka.hastagyazilim.com/admin/header.php on line 26
+[21-Mar-2022 20:01:29 Europe/Istanbul] PHP Notice:  Undefined index: diziadi in /home/hastagya/keka.hastagyazilim.com/admin/header.php on line 26
+[21-Mar-2022 20:01:33 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 20:02:44 Europe/Istanbul] PHP Notice:  Undefined variable: diziadi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 20:02:44 Europe/Istanbul] PHP Notice:  Undefined variable: diziadi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 86
+[21-Mar-2022 20:02:52 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 20:02:52 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 20:04:43 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 20:04:43 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 20:04:48 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 20:04:48 Europe/Istanbul] PHP Notice:  Undefined index: video_dizi in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 20:08:08 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '<' in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 20:09:13 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '<' in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 88
+[21-Mar-2022 20:09:14 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '<' in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 88
+[21-Mar-2022 20:09:33 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '<' in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 88
+[21-Mar-2022 20:09:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in /home/hastagya/keka.hastagyazilim.com/admin/header.php:28
+Stack trace:
+#0 /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php(3): include()
+#1 {main}
+  thrown in /home/hastagya/keka.hastagyazilim.com/admin/header.php on line 28
+[21-Mar-2022 20:12:16 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '<' in /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php on line 87
+[21-Mar-2022 20:17:53 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in /home/hastagya/keka.hastagyazilim.com/admin/header.php:28
+Stack trace:
+#0 /home/hastagya/keka.hastagyazilim.com/admin/videoduzenle.php(3): include()
+#1 {main}
+  thrown in /home/hastagya/keka.hastagyazilim.com/admin/header.php on line 28
